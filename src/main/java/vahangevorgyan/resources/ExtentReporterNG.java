@@ -1,4 +1,4 @@
-package rahulshettyacademy.resources;
+package vahangevorgyan.resources;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
